@@ -15,7 +15,7 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "",
+    "Punchline": "Sit or doze anywhere.",
     "AcceptsFeedback": true
   },
   {
@@ -34,7 +34,7 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "",
+    "Punchline": "Receive and send private messages from other players to Discord.",
     "AcceptsFeedback": true
   }
 ]
