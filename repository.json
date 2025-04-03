@@ -1,6 +1,25 @@
 [
   {
     "Author": "Warpholomey",
+    "Name": "MSQGauge",
+    "InternalName": "MSQGauge",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Adds a new gauge (which behaves like other gauges), which shows the progress of the MSQ.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Warpholomey/MSQGauge/",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Warpholomey/DalamudPlugins/master/releases/MSQGauge/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Warpholomey/DalamudPlugins/master/releases/MSQGauge/latest.zip",
+    "Tags": [],
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "MSQ gauge, by the way.",
+    "AcceptsFeedback": true
+  },
+  {
+    "Author": "Warpholomey",
     "Name": "DozeAnywhere",
     "InternalName": "DozeAnywhere",
     "AssemblyVersion": "1.4.0.0",
