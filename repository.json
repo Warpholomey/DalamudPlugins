@@ -3,7 +3,7 @@
     "Author": "Warpholomey",
     "Name": "MSQGauge",
     "InternalName": "MSQGauge",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.1.0.0",
     "Description": "Adds a new gauge (which behaves like other gauges), which shows the progress of the MSQ.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Warpholomey/MSQGauge/",
